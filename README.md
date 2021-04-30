@@ -1,6 +1,5 @@
 - 👋 Hi, I’m DTS.
 - 🧑‍🎓 I'm a Python developer and student.
-- 👀 I’m interested in developing things, especially Discord Bots!
 - 👷 Working on Discord Bots!
 - 💞️ I’m looking to collaborate on fun stuffs!
 - 📫 Reach me via: [Discord](https://discord.gg/WhNDVTF), [Twitter](https://twitter.com/official_DTS_11)
