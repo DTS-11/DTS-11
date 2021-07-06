@@ -1,7 +1,7 @@
 # About me
 - 👋 Hi, I’m DTS.
 - 🧑‍🎓 I'm a Python developer and student. Currently learning HTML and CSS
-- 👷 Working on my latest bot: [Zion](https://dsc.gg/ziom-bot)
+- 👷 Working on my latest bot: [Zion](https://dsc.gg/zion-bot)
 - 💞️ I’m looking to collaborate on fun stuffs!
 - 📫 Reach me via: [Discord](https://discord.gg/WhNDVTF), [Twitter](https://twitter.com/official_DTS_11)
 
