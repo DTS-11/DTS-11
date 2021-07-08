@@ -8,6 +8,9 @@
 ## GitHub Stats
 ![DTS's GitHub stats](https://github-readme-stats.vercel.app/api?username=DTS-11&count_private=true&show_icons=true&theme=radical)
 
+## Discord Status
+![](https://discord.c99.nl/widget/theme-2/710247495334232164.png)
+
 <!---
 DTS-11/DTS-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
