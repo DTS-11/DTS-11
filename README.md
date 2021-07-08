@@ -8,6 +8,10 @@
 ## GitHub Stats
 ![DTS's GitHub stats](https://github-readme-stats.vercel.app/api?username=DTS-11&count_private=true&show_icons=true&theme=radical)
 
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTS-11&layout=compact)
+
+
 ## Discord Status
 ![](https://discord.c99.nl/widget/theme-2/710247495334232164.png)
 
