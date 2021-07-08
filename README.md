@@ -1,5 +1,5 @@
 # About me
-- 👋 Hi, I’m DTS. An official developer of @Vector-Development1
+- 👋 Hi, I’m DTS.
 - 🧑‍🎓 I'm a Python developer and student. Currently learning HTML and CSS
 - 👷 Working on my latest Discord bot: [Zion](https://dsc.gg/zion-bot)
 - 💞️ I’m looking to collaborate on fun stuffs!
