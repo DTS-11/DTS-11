@@ -11,6 +11,9 @@
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTS-11&layout=compact)
 
+## Profile Views
+![](https://komarev.com/ghpvc/?username=DTS-11&color=ff69b4)
+
 
 ## Discord Status
 ![](https://discord.c99.nl/widget/theme-2/710247495334232164.png)
