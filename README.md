@@ -16,7 +16,8 @@
 
 
 ## Discord Status
-![](https://discord.c99.nl/widget/theme-2/710247495334232164.png)
+![](https://discord.c99.nl/widget/theme-2/710247495334232164.png)\
+![Discord Server](https://discordapp.com/api/guilds/764049436275114004/widget.png?style=banner2)
 
 <!---
 DTS-11/DTS-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
