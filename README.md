@@ -19,7 +19,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Profile Views
-![](https://komarev.com/ghpvc/?username=DTS-11&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=DTS-11&color=4185f2)
 
 
 ## Discord Status
