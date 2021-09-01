@@ -24,7 +24,7 @@
 
 ## Discord Status
 ![](https://discord.c99.nl/widget/theme-1/710247495334232164.png)\
-![Discord Server](https://discordapp.com/api/guilds/764049436275114004/widget.png?style=banner2)
+![Discord Server](https://discordapp.com/api/guilds/764049436275114004/widget.png?style=banner2)\
 ![Discord Server](https://discordapp.com/api/guilds/882316804339433472/widget.png?style=banner2)
 
 <!---
