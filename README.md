@@ -6,7 +6,7 @@
 - 📫 Reach me via: [Discord](https://discord.gg/WhNVDTF), [Twitter](https://twitter.com/official_DTS_11)
 
 ## GitHub Stats
-![DTS's GitHub stats](https://github-readme-stats.vercel.app/api?username=DTS-11&count_private=true&show_icons=true&theme=radical)
+![DTS's GitHub stats](https://github-readme-stats.vercel.app/api?username=DTS-11&count_private=true&show_icons=true&theme=dracula)
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTS-11&layout=compact)\
