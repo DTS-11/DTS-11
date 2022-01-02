@@ -1,7 +1,7 @@
 # About me
 - 👋 Hi, I’m DTS.
-- 🧑‍🎓 I'm a Python developer and student. Currently learning Web-Development and PostgreSQL.
-- 👷 Working on my latest [Discord bot](https://dsc.gg/pizza-invite)
+- 🧑‍🎓 I'm a Python developer and student.
+- 👷 Working on my [Discord bot](https://dsc.gg/pizza-invite)
 - 💞️ I’m looking to collaborate on fun stuffs!
 - 📫 Reach me via: [Discord](https://discord.gg/WhNVDTF), [Twitter](https://twitter.com/official_DTS_11)
 
