@@ -1,8 +1,8 @@
 # About me
 - 👋 Hi, I’m DTS.
 - 🧑‍🎓 I'm a Python developer and student.
-- 👷 Working on my [Discord bot](https://dsc.gg/pizza-invite) which is now open-source!
-- 💞️ I’m looking to collaborate on fun stuffs!
+- 👷 Working on my [Discord bot](https://dsc.gg/pizza-invite) which is now [open-source](https://github.com/DTS-11/PizzaHat)!
+- 💞️ I’m looking forward to collaborate on fun stuffs!
 - 📫 Reach me via: [Discord](https://discord.gg/WhNVDTF), [Twitter](https://twitter.com/official_DTS_11)
 
 ## GitHub Stats
