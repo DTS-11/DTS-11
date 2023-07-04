@@ -28,9 +28,13 @@
 ## Profile Views
 ![](https://komarev.com/ghpvc/?username=DTS-11&color=4185f2)
 
+## Contact me
+<div>
+  <a href='https://twitter.com/itsDTS_'><img src='./assets/twitter.svg' alt='Twitter' width=64px height=64px><img/><a/>
+  <a href='https://instagram.com/itsdts__'><img src='./assets/instagram.svg' alt='Instagram' width=64px height=64px><img/><a/>
+  <a href='https://discord.gg/WhNVDTF'><img src='./assets/discord.svg' alt='Discord' width=64px height=64px><img/><a/>
+</div>
 
-## Discord Status
-![Discord Server](https://discordapp.com/api/guilds/764049436275114004/widget.png?style=banner2)
 
 <!---
 DTS-11/DTS-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
