@@ -6,10 +6,8 @@
 - 📫 Reach me via: [Discord](https://discord.gg/WhNVDTF), [Twitter](https://twitter.com/official_DTS_11)
 
 ## GitHub Stats
-![DTS's GitHub stats](https://github-readme-stats.vercel.app/api?username=DTS-11&count_private=true&show_icons=true&theme=dracula)
-
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTS-11&layout=compact)
+![DTS's GitHub stats](https://github-readme-stats.vercel.app/api?username=DTS-11&count_private=true&show_icons=true&theme=onedark&rank_icon=github)\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTS-11&theme=onedark&layout=compact)
 
 ## Things I know/have used
 ### Languages
@@ -23,6 +21,9 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+## IDE
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Profile Views
 ![](https://komarev.com/ghpvc/?username=DTS-11&color=4185f2)
