@@ -9,7 +9,7 @@
 ![DTS's GitHub stats](https://github-readme-stats.vercel.app/api?username=DTS-11&count_private=true&show_icons=true&theme=onedark&rank_icon=github)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTS-11&theme=onedark&layout=compact)
 
-## Things I know/have used
+## Tech I know/have used
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
