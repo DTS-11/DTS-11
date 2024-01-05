@@ -4,8 +4,9 @@ Hello there! I'm DTS, a passionate student and developer currently working on ex
 
 ## 📊 GitHub Stats
 ![](https://komarev.com/ghpvc/?username=DTS-11&color=4185f2) \
-![DTS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DTS-11&count_private=true&show_icons=true&theme=onedark&rank_icon=github)\
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DTS-11&theme=onedark&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=DTS-11&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DTS-11&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DTS-11&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 💻 Technologies I'm Familiar With
 ### Languages
@@ -29,12 +30,15 @@ Hello there! I'm DTS, a passionate student and developer currently working on ex
 ### IDE
 - ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## 🌐 Connect with Me
-<div>
-  <a href='https://twitter.com/itsDTS_'><img src='./assets/twitter.svg' alt='Twitter' width=64px height=64px><img/><a/>
-  <a href='https://instagram.com/itsdts__'><img src='./assets/instagram.svg' alt='Instagram' width=64px height=64px><img/><a/>
-  <a href='https://discord.gg/WhNVDTF'><img src='./assets/discord.svg' alt='Discord' width=64px height=64px><img/><a/>
-</div>
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+### 🌐 Connect with Me
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/WhNVDTF)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsdts__)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsDTS_) 
 
 <!---
 DTS-11/DTS-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
