@@ -1,4 +1,4 @@
-# DTS - Developer and Student 👨‍💻🎓
+<h1 align="center"># DTS - Developer and Student 👨‍💻🎓</h1>
 
 Hello there! I'm DTS, a passionate student and developer currently working on exciting projects. One of my notable endeavors is [PizzaHat](https://github.com/DTS-11/PizzaHat), a Discord bot that's open-source and always welcoming collaboration.
 
