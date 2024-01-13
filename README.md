@@ -1,6 +1,14 @@
-<h1 align="center">DTS - Developer and Student 👨‍💻🎓</h1>
+<h1 align="center">𝘿𝙚𝙤𝙣 𝙏𝙝𝙤𝙢𝙖𝙨</h1>
 
-Hello there! I'm DTS, a passionate student and developer currently working on exciting projects. One of my notable endeavors is [PizzaHat](https://github.com/DTS-11/PizzaHat), a Discord bot that's open-source and always welcoming collaboration.
+**🚀 Alias:** DTS \
+**🎭 Role:** Developer and Student \
+**🌎 Location:** Anywhere in the coding universe \
+**📂 Notable projects:** [PizzaHat](https://github.com/DTS-11/PizzaHat) \
+<br/>
+**Interests:**
+- 🌐 Exploring new technologies
+- 🚧 Building cool and innovative projects
+- 📚 Learning and sharing knowledge
 
 ## 📊 GitHub Stats
 ![](https://komarev.com/ghpvc/?username=DTS-11&color=4185f2) \
