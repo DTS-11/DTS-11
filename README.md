@@ -36,8 +36,8 @@
 
 ## 🌐 Connect with Me
 [![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord)](https://discord.gg/WhNVDTF)
-[![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram)](https://instagram.com/itsdts__)
-[![Twitter](https://go-skill-icons.vercel.app/api/icons?i=twitter)](https://twitter.com/itsDTS_) 
+[![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram)](https://instagram.com/imdeon_)
+[![Twitter](https://go-skill-icons.vercel.app/api/icons?i=twitter)](https://twitter.com/imDeon_) 
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/dts11/) 
 
 <!---
