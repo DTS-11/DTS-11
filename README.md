@@ -27,7 +27,7 @@
 ![frameworkList](https://go-skill-icons.vercel.app/api/icons?i=django,flask,svelte,react,nextjs,tailwind&perline=3)
 
 ### IDE & Version Control
-![miscList](https://go-skill-icons.vercel.app/api/icons?i=vscode,git)
+![miscList](https://go-skill-icons.vercel.app/api/icons?i=vscode,zed,git)
 
 
 ## ✍️ Random Dev Quote
