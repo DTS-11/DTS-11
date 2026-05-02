@@ -1,10 +1,3 @@
-<h1 align="center">𝘿𝙚𝙤𝙣 𝙏𝙝𝙤𝙢𝙖𝙨</h1>
-
-**🚀 Alias:** DTS \
-**🎭 Role:** Developer and Student \
-**🌎 Location:** Anywhere in the coding universe \
-**📂 Notable projects:** [PizzaHat](https://github.com/DTS-11/PizzaHat) \
-<br/>
 **Interests:**
 - 🌐 Exploring new technologies
 - 🚧 Building cool and innovative projects
@@ -18,7 +11,7 @@
 
 ## 💻 Technologies I'm Familiar With
 ### Languages
-![langlageList](https://go-skill-icons.vercel.app/api/icons?i=python,js,c,html,css,md&perline=3)
+![langlageList](https://go-skill-icons.vercel.app/api/icons?i=python,js,c,rust,html,css,md&perline=3)
 
 ### Databases
 ![dbList](https://go-skill-icons.vercel.app/api/icons?i=sqlite,postgres,mysql&perline=3)
